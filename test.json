@@ -1,15 +1,4 @@
-// Task 5.3
-
-{"menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
-    ]
-  }
-}}test12345678
-testABCD
-test11111
+test_overwrite1
+test_update1
+test_update2
+test_update3
